@@ -6,7 +6,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
+        name: 'Motify',
         description: "Me and my colleague built a car trading platform. I worked on the frontend using nextJs and tailwindcss. Worked with graphql apis and a  bit of Rest.",
         tools: ['NextJs', 'Postgres', 'Graphql', 'Node Mailer', 'PM2', 'Nginx', 'Typescript', 'Ecommerce', 'Tailwindcss'],
         role: 'Backend Developer',
