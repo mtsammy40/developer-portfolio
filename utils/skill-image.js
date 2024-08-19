@@ -73,6 +73,10 @@ import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import springboot from '/public/svg/skills/springboot.svg';
+import kubernetes from '/public/svg/skills/kubernetes.svg';
+import node from '/public/svg/skills/node.svg';
+import rabbitmq from '/public/svg/skills/rabbitmq.svg';
+import kafka from '/public/svg/skills/kafka.svg';
 
 
 export const skillsImage = (skill) => {
@@ -226,8 +230,16 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
-    case 'spring boot':
+    case 'springboot':
       return springboot;
+    case 'kubernetes':
+      return kubernetes;
+    case 'nodejs':
+      return node;
+    case 'rabbitmq':
+      return rabbitmq;
+    case 'kafka':
+      return kafka;
     default:
       break;
   }
