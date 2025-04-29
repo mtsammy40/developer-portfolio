@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Nairobi, Kenya ',
   github: 'https://github.com/mtsammy40',
   facebook: '',
-  linkedIn: 'https://www.linkedin.com/in/samuel-mutemi-867153106/',
+  linkedIn: 'https://www.linkedin.com/in/samuel-mwangangi-867153106/',
   twitter: '',
   stackOverflow: 'https://stackoverflow.com/users/9914081/samuel-mutemi',
   leetcode: "https://leetcode.com/u/mtsammy40/",
