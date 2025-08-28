@@ -13,5 +13,6 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/9914081/samuel-mutemi',
   leetcode: "https://leetcode.com/u/mtsammy40/",
   devUsername: "mtsammy40",
-  resume: "https://1drv.ms/b/c/289081ff58199e92/EYYiMByxVw1KuGDweTjOdsIBVPd3WvYkh8ts6DvisRR9Vw?e=bHtdDM"
+  // resume: "https://1drv.ms/b/c/289081ff58199e92/EYYiMByxVw1KuGDweTjOdsIBVPd3WvYkh8ts6DvisRR9Vw?e=bHtdDM"
+  resume: "/Samuel_Mwangangi_Resume.pdf"
 }
