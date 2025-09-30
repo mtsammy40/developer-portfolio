@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Samuel Mutemi - Software Engineer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "Samuel Mutemi is a Backend Engineer with broad fintech expertise, having contributed to mission-critical platforms across payments, lending, banking, and bulk disbursements. He has designed and scaled high-volume systems handling millions in daily transactions, from integrating first-in-region payment solutions like VISA Click-to-Pay and Apple Pay Online to building advanced lending and cooperative banking platforms. Passionate about reliability and impact, Samuel specializes in building distributed, secure, and high-performance financial systems.",
 };
 
 export default function RootLayout({ children }) {
